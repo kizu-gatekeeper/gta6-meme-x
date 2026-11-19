@@ -8,7 +8,7 @@
 
 The meme is posted publicly on X from the entrant's own account; once it is live, its URL goes into `post.json` (the `post_url` field) and is handed in with the entry. Running the entrypoint copies `meme.png` to the output directory and writes `post.txt` there with the post's exact caption and, once known, its URL.
 
-**The meme on X:** https://x.com/KuntulZin/status/2123543096495616288
+**The meme on X:** https://x.com/KuntulZin/status/2123545902187229563
 
 ## Run it
 
